@@ -2,8 +2,6 @@
 
 # About
 
-https://alanafsoares.github.io/artspace/
-
 Art Space was the first application I learned how to develop from scratch at a five day immersion by @Rocketseat, called NLW-Together.
 So it's mainly for my own studies as a front-end developer.
 
@@ -14,6 +12,7 @@ So it's mainly for my own studies as a front-end developer.
 ## Layout web
 ![Web](https://github.com/alanafsoares/assets/blob/main/desktop-originsix.png)
 
+https://alanafsoares.github.io/artspace/
 
 # Tech
 - HTML / CSS / JS 
