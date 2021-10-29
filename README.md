@@ -2,8 +2,8 @@
 
 # About
 
-Art Space was the first application I learned how to develop from scratch at a five day immersion by @Rocketseat, called NLW-Together.
-So it's mainly for my own studies as a front-end developer.
+Art Space was the first application I learned how to develop from scratch with @Rocketseat, at a five day event called NLW-Together.
+It's a space for people who want to publish and sell their art online.
 
 ## Layout mobile
 ![Mobile](https://github.com/alanafsoares/assets/blob/main/mobile-originsix.png)
