@@ -1,9 +1,9 @@
 # ArtSpace 🌌
 
-# About
+# Sobre
 
-Art Space was the first application I learned how to develop from scratch with @Rocketseat, at a five day event called NLW-Together.
-It's a space for people who want to publish and sell their art online.
+Meu primeiro contato com o front-end e primeira aplicação que aprendi a desenvolver no evento (curso) da @Rocketseat, chamado NLW-Together durante cinco dias.
+Minha ideia para o site foi um espaço para pessoas que desejam publicar e vender suas artes online, como quadros e colagens.
 
 ## Layout mobile
 ![Mobile](https://github.com/alanafsoares/assets/blob/main/mobile-originsix.png)
@@ -13,11 +13,3 @@ It's a space for people who want to publish and sell their art online.
 ![Web](https://github.com/alanafsoares/assets/blob/main/desktop-originsix.png)
 
 https://alanafsoares.github.io/artspace/
-
-# Tech
-- HTML / CSS / JS 
-
-# Autor 
-Alana Soares
-<p>
-<a href="https://www.linkedin.com/in/alanafsoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
